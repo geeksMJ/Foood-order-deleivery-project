@@ -1,1 +1,1 @@
-This project is all about food order deleveru website which uses MERN stack technologies
+This project is all about food order deleivery website which uses MERN stack technologies
